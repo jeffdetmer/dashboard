@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielbayerlein/dashboard.git"
+    "url": "git+https://github.com/shellthor/dashboard.git"
   },
   "keywords": [
     "tv",
@@ -27,10 +27,10 @@
   "homepage": "https://github.com/danielbayerlein/dashboard#readme",
   "dependencies": {
     "babel-plugin-styled-components": "^1.1.7",
-    "dotenv-webpack": "^1.5.2",
+    "dotenv-webpack": "^1.5.3",
     "isomorphic-unfetch": "^2.0.0",
     "js-base64": "^2.1.9",
-    "next": "^2.4.4",
+    "next": "^2.4.7",
     "polished": "^1.2.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
